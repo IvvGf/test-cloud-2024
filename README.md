@@ -5,7 +5,7 @@
 ### sssss
 
 linea de texto
-*italik* \n
+*italik* 
 **negritas**
 
 ``codigo``
