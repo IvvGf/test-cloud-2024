@@ -5,8 +5,8 @@
 ### sssss
 
 linea de texto
-*italik*
+*italik* \n
 **negritas**
-==subrayado==
+
 ``codigo``
 
